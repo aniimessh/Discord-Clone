@@ -6,7 +6,7 @@
 ----
 ### Footer Part
 ![image](https://user-images.githubusercontent.com/97246133/216274752-a4512a5c-b87d-4e4c-af13-30cae223bd00.png)
-#### Note: If you cloe this repositry you have to download node-modules files from the drive link and paste it in the project folder link for the node-modules file: https://drive.google.com/drive/folders/1junA-NSL_QSJ5S9102LlpzbcVQJMRNbz?usp=share_link
+#### Note: If you clone this repositry you have to download node-modules files from the drive link and paste it in the project folder link for the node-modules file: https://drive.google.com/drive/folders/1junA-NSL_QSJ5S9102LlpzbcVQJMRNbz?usp=share_link
 ----
 ## How to run this aaplication 
 #### Step 1: Download this repositry into your local computer/system
